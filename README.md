@@ -2,6 +2,7 @@ Lecture Notes of Theory of Probability II
 Main Reference:
 
 Type A:
+
 [D] Probability: Theory and Examples by Durrett
 [W] Probability with Martingales by Williams
 [S] Probability by Shiryaev
